@@ -2,3 +2,4 @@ Sachet -> hello aadarsha, how are you?
 Aadarsha -> hello bro. i'm fine thank you.
 Sachet -> khana khayau timle?
 Aadarsha -> Khaye sathi maile.. k gardai xau???
+Sachet -> git sikdai xu ani git janiyo ta ali ali?
