@@ -12,4 +12,12 @@ Aadarsha -> yo github batai file edit gare k hunxa hola
 Aadarsha -> new brach ma kam hudai
 Aadarsha -> haina k k ho kura bujna garo
 Aadsrsha -> git restore cmmnd..
+<<<<<<< HEAD
 Aadarsha -> merge conflict aauxa ki
+=======
+
+2022-02-02
+Sachet -> naba branch banauna paro aba maile ni
+
+
+>>>>>>> 1ae3fa7ce82703930efa3306ce7c2abc56a22f54
