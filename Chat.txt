@@ -6,18 +6,14 @@ Aadarsha -> aaba k hune ho kunni ???
 Aadarsha -> aayaa ho timro message ta.
 2022-01-31
 Sahet -> Good morning saathi
->>>>>>> e25de7496731700379754061019988fb49bae666
 Aadarsha -> timro hizo vako jasto vo aaja mero fareee..
 Aadarsha -> yo github batai file edit gare k hunxa hola
 Aadarsha -> new brach ma kam hudai
 Aadarsha -> haina k k ho kura bujna garo
 Aadsrsha -> git restore cmmnd..
-<<<<<<< HEAD
-Aadarsha -> merge conflict aauxa ki
-=======
+
 
 2022-02-02
 Sachet -> naba branch banauna paro aba maile ni
+Aadarsah -> this is bugfix branch
 
-
->>>>>>> 1ae3fa7ce82703930efa3306ce7c2abc56a22f54
